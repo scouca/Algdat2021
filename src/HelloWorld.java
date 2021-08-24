@@ -9,9 +9,5 @@ public class HelloWorld {
         }
         System.out.println("---");
 
-        System.out.println("Petra Teller til 20");
-        for(int i=0; i<=20; i++){
-            System.out.print(i+" ");
-        }
     }
 }
