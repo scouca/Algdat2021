@@ -7,5 +7,11 @@ public class HelloWorld {
         for(int i=0; i<=10; i++){
             System.out.print(i+" ");
         }
+        System.out.println("---");
+
+        System.out.println("Petra Teller til 20");
+        for(int i=0; i<=20; i++){
+            System.out.print(i+" ");
+        }
     }
 }
